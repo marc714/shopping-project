@@ -1,0 +1,1 @@
+Javascript project implementing lessons from CodeAcademy Javascript from Beginner to Intermediate.
